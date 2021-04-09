@@ -1,0 +1,14 @@
+{
+  "customerdetails": [
+    {
+      "id": "456",
+      "text": "tiffin",
+      "location": "kerala"
+    },
+    {
+      "id": "123",
+      "text": "abhinayq",
+      "location": "lkasd"
+    }
+  ]
+}
